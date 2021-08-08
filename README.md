@@ -1,7 +1,7 @@
 # Решения для курсов на [STEPIK](https://stepik.org/)
 
 ## Содержание
-- ["Поколение Python": курс для продвинутых](/course_86343)
+- ["Поколение Python": курс для продвинутых](https://stepik.org/course/68343/syllabus)
 - - [Модуль 2](/course_86343/module_2)
 - - - [Часть 1](/course_86343/module_2/part_1)
 - - - [Часть 2](/course_86343/module_2/part_2)
