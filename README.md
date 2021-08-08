@@ -10,3 +10,6 @@
 - - [Модуль 4](/course_86343/module_4)
 - - - [Часть 2](/course_86343/module_4/part_2)
 - - - [Часть 3](/course_86343/module_4/part_3)
+- - - [Часть 4](/course_86343/module_4/part_4)
+- - - [Часть 5](/course_86343/module_4/part_5)
+- - - [Часть 6](/course_86343/module_4/part_6)
