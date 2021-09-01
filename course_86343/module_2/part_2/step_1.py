@@ -12,7 +12,7 @@
 
 Примечание. Учтите, что точки, лежащие на осях координат, не принято относить к какой либо координатной четверти.
 """
-DEBUG = True
+DEBUG = False
 if DEBUG:
     import sys
     sys.stdin = open('input.txt')

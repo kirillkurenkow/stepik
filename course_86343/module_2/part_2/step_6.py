@@ -16,7 +16,7 @@
 
 Примечание 2. Для решения задачи используйте вложенные циклы.
 """
-DEBUG = True
+DEBUG = False
 if DEBUG:
     import sys
 

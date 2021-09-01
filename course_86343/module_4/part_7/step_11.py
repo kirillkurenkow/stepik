@@ -13,7 +13,7 @@
 import sys
 from typing import List, Any
 
-DEBUG = True
+DEBUG = False
 T_MATRIX = List[List[Any]]
 
 

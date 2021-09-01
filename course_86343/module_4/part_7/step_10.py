@@ -14,7 +14,7 @@
 import sys
 from typing import Any, List
 
-DEBUG = True
+DEBUG = False
 T_MATRIX = List[List[Any]]
 
 

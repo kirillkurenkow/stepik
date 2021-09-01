@@ -23,7 +23,7 @@ z учеников — первую и третью, или хотя бы одн
 """
 import sys
 
-DEBUG = True
+DEBUG = False
 
 
 def set_debug_input():

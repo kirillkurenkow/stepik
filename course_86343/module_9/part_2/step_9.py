@@ -19,7 +19,7 @@
 """
 import sys
 
-DEBUG = True
+DEBUG = False
 
 
 def set_debug_input():

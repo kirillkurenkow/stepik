@@ -12,7 +12,7 @@
 
 Примечание. Задачу можно решить без множеств.
 """
-DEBUG = True
+DEBUG = False
 if DEBUG:
     import sys
 

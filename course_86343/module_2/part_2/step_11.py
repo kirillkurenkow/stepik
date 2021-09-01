@@ -16,7 +16,7 @@
 
 Примечание 2. Поем и решаем, друзья, поем и решаем.
 """
-DEBUG = True
+DEBUG = False
 if DEBUG:
     import sys
 

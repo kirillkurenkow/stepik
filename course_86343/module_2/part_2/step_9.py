@@ -12,7 +12,7 @@
 
 Примечание. Если выпавших Решек нет, то необходимо вывести число 0.
 """
-DEBUG = True
+DEBUG = False
 if DEBUG:
     import sys
 

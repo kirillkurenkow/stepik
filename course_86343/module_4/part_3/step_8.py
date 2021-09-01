@@ -13,7 +13,7 @@
 import sys
 import os
 
-DEBUG = True
+DEBUG = False
 if DEBUG:
     filename = 'input.txt'
     if os.path.exists(filename):

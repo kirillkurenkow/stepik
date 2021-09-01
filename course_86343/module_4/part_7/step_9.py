@@ -15,7 +15,7 @@ import os
 from typing import Any, List
 
 # Debug
-DEBUG = True
+DEBUG = False
 if DEBUG:
     input_filename = 'input.txt'
     if os.path.exists(input_filename):

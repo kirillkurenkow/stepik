@@ -21,7 +21,7 @@ import re
 import sys
 
 
-DEBUG = True
+DEBUG = False
 if DEBUG:
     sys.stdin = open('input.txt', encoding='utf-8')
 

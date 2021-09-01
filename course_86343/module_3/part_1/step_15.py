@@ -24,7 +24,7 @@ True
 не делится
 делится
 """
-DEBUG = True
+DEBUG = False
 if DEBUG:
     import sys
 

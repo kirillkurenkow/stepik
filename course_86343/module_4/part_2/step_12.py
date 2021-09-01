@@ -3,7 +3,7 @@
 
 list1 = [10, 20, [300, 400, [5000, 6000, 7000], 500], 30, 40]
 """
-DEBUG = True
+DEBUG = False
 if DEBUG:
     import sys
 
